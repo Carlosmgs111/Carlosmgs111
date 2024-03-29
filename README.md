@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hello! 👋 I'm Carlos, a passionate software developer with experience in TypeScript, JavaScript and Python. I specialize in backend development, however I also develop frontend and full-stack, and I have extensive knowledge of frameworks and libraries such as React, Node and Next. My goal is to create innovative and efficient solutions that drive project success. Connect with me and find out how we can work together to achieve new heights in the world of software development!
 
+Also interested in blockchain and DLT 🪙, machine learning (ML) 🧠 and all its branches, internet of things (IoT) 💻, decentralized finance (DeFi) 💱, sustainable architecture 🏢, robotics 🤖, efficient processes ♻️, business 🫱🏼‍🫲🏼, space exploration 🚀 and eventual space mining ⛏️ and colonization.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cmgs111) 
@@ -22,13 +23,6 @@ Hello! 👋 I'm Carlos, a passionate software developer with experience in TypeS
 [![](https://visitcount.itsvg.in/api?id=Carlosmgs111&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-- 👋 Hi, I’m @Carlosmgs111, i'm a developer fullstack, in JavaScript, Python and Java, interested to learn Go, Rust, C++ and Solidity, maybe lower level language like C and Assembly. 
-- 👀 I’m interested in blockchain, machine learning (ML), internet of thing (IoT), descentralized finances (DeFi), sustainable architecture, robotic, efficient processes, business, espacial exploration, and the eventual espacial mining and colonization.
-- 🌱 I’m currently learning graph based data bases, with neo4j and its query language, cypher, and clean architecture, both backend and frontend, and how to build my own startup.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 Carlosmgs111/Carlosmgs111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
