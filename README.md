@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! 👋 I'm Carlos, a passionate software developer with experience in TypeScript, JavaScript and Python. I specialize in backend development, however I also develop frontend and full-stack, and I have extensive knowledge of frameworks and libraries such as React, Node and Next. My goal is to create innovative and efficient solutions that drive project success. Connect with me and find out how we can work together to achieve new heights in the world of software development!
+Hello! 👋 I'm Carlos, a passionate software developer with experience in TypeScript, Java, JavaScript and Python. I specialize in backend development, however I also develop frontend and full-stack, and I have extensive knowledge of frameworks and libraries such as React, Node and Next. My goal is to create innovative and efficient solutions that drive project success. Connect with me and find out how we can work together to achieve new heights in the world of software development!
 
 Also interested in blockchain and DLT 🪙, machine learning (ML) 🧠 and all its branches, internet of things (IoT) 💻, decentralized finance (DeFi) 💱, sustainable architecture 🏢, robotics 🤖, efficient processes ♻️, business 🫱🏼‍🫲🏼, space exploration 🚀 and eventual space mining ⛏️ and colonization.
 
